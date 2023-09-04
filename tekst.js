@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
     const textElement = document.getElementById("animated-text");
     const texts = [
-        "I am mysti - an arrogant unicorn!!",
-        "jestem mysticzny - w skrócie arogancki jednorożec!!",
-        "jsem mystický - zkrátka arogantní jednorožec!!"
+        "I am mysti - some arrogant unicorn!!",
+        "jestem mysticzny - taki arogancki jednorożec!!",
+        "jsem mystický - taký arogantní jednorožec!!"
     ];
     let currentIndex = 0;
     let fading = false;
