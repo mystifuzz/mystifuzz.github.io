@@ -11,7 +11,7 @@ body {
   border-radius: 50px;
   margin: 50px auto;
   max-width: 600px;
-  min-height: 670px;
+  min-height: 630px;
   overflow: hidden;
 }
 
@@ -42,9 +42,9 @@ a {
   font-weight: normal
 
 .opis-placeholder {
-  height: 24px; /* Adjust the height to match the "animated-text" */ */
-  visibility: hidden; /* Hide the placeholder */
-  margin-bottom: 8px; /* Adjust this margin to match your design */
+  height: 24px;
+  visibility: hidden;
+  margin-bottom: 8px;
 }
 
 }
