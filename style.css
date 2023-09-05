@@ -12,6 +12,7 @@ body {
   margin: 50px auto;
   max-width: 600px;
   min-height: 670px;
+  overflow: hidden;
 }
 
 h1 {
@@ -39,6 +40,12 @@ a {
   font-size: 20px;
   font-family: Montserrat, sans-serif;
   font-weight: normal
+
+.opis-placeholder {
+  height: 24px; /* Adjust the height to match the "animated-text" */ */
+  visibility: hidden; /* Hide the placeholder */
+  margin-bottom: 8px; /* Adjust this margin to match your design */
+}
 
 }
 
