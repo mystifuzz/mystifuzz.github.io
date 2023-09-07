@@ -44,6 +44,6 @@ a {
 }
 
 .text-container {
-  height: auto;
+  height: 75px;
   overflow: hidden;
 }
