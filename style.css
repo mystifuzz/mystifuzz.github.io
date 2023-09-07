@@ -41,11 +41,9 @@ a {
   font-family: Montserrat, sans-serif;
   font-weight: normal
 
-.opis-placeholder {
-  height: 24px;
-  visibility: hidden;
-  margin-bottom: 8px;
 }
 
+.text-container {
+  height: auto;
+  overflow: hidden;
 }
-
