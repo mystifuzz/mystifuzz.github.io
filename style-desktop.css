@@ -1,0 +1,55 @@
+body {
+  background-image: url("background/index.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.pudlo {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 50px;
+  margin: 50px auto;
+  max-width: 600px;
+  min-height: 630px;
+  overflow: hidden;
+  text-align: center;
+  position: absolute;
+}
+
+h1 {
+  color: white;
+  font-size: 32px;
+  font-family: Montserrat, sans-serif;
+}
+
+p {
+  color: white;
+  font-size: 22px;
+  font-family: Montserrat, sans-serif;
+  opacity: 0;
+  transition: opacity 1.5s ease-in-out;
+  font-weight: bold
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
+
+.opis {
+  opacity: 1;
+  font-size: 20px;
+  font-family: Montserrat, sans-serif;
+  font-weight: normal
+
+}
+
+.text-container {
+  height: 75px;
+  overflow: hidden;
+}
