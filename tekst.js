@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const textContainer = document.querySelector(".text-container");
     const texts = [
         "I am mystic - some arrogant unicorn!!",
-        "jestem mysticzny - taki arogancki jednorożec!!",
-        "jsem mysticky - taký arogantní jednorožec!!"
+        "jestem mystic - taki arogancki jednorożec!!",
+        "jsem mystic - taký arogantní jednorožec!!"
     ];
     let currentIndex = 0;
     let fading = false;
