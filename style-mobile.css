@@ -1,12 +1,12 @@
 body {
-  background-image: url("background/index1.jpg");
+  background-image: url("background/index.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0px;
 }
 
 .pudlo {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.65);
   padding: 20px;
   border-radius: 50px;
   margin: 50px auto;
